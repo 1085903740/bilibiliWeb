@@ -1,4 +1,5 @@
 ### bilibiliWeb
+vue-cil搭建项目，vue-router分配路由
 技术栈：Vue + vue-router + ES6 + less + flex + vant<br/>
 实现功能</br>
 &ensp;&ensp;登录注册<br/>
